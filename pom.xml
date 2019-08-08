@@ -5,7 +5,7 @@
   <artifactId>sam</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>sam Maven Webapp</name>
+  <name>sam Maven Webapp test</name>
   <url>http://maven.apache.org</url>
   
     <properties>
